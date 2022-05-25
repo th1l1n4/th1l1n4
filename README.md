@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @th1l1n4! I am a Information Security Student.
+- Hi, I’m Thilina! 👋 I am an Information Security Student 🐢
 
 
 <!---
