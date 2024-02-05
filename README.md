@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Thilina
 #### **💻Open source and Information security**
 
-Skills:  JS / HTML / CSS / Bash / Python
+Skills:  Bash, Python, CTI, IR
+         Penetration Testing, Malware Analysis
+         Threat Hunting, PowerShell
 
--  I’m currently learning Cyber Security
 
 
 
